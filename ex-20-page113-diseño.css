@@ -1,0 +1,23 @@
+body
+{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+}
+
+section
+{
+    padding: 50px;
+    width: 550px;
+    border-color: #666;
+    border-style: solid;
+}
+
+h1
+{
+    color: #09f;
+}
+
+p
+{
+    color: #666;
+}
